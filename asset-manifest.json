@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/arknights-pulls-v2/static/css/main.ba957252.css",
+    "main.js": "/arknights-pulls-v2/static/js/main.9dd63a9b.js",
+    "static/js/453.9a32d69e.chunk.js": "/arknights-pulls-v2/static/js/453.9a32d69e.chunk.js",
+    "index.html": "/arknights-pulls-v2/index.html",
+    "main.ba957252.css.map": "/arknights-pulls-v2/static/css/main.ba957252.css.map",
+    "main.9dd63a9b.js.map": "/arknights-pulls-v2/static/js/main.9dd63a9b.js.map",
+    "453.9a32d69e.chunk.js.map": "/arknights-pulls-v2/static/js/453.9a32d69e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba957252.css",
+    "static/js/main.9dd63a9b.js"
+  ]
+}
