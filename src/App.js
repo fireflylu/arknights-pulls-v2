@@ -6,14 +6,14 @@ function App() {
         {
             name: "A",
             characters: "a",
-            date: "jan-16-2026",
-            image: "https://arknights.wiki.gg/images/thumb/CN_Hanabi_Exiled_banner.png/1536px-CN_Hanabi_Exiled_banner.png?89db07"
+            date: "dec-11-2025",
+            image: "https://arknights.wiki.gg/images/EN_The_Rolling_Thunder_banner.png?2859d1"
         },
         {
             name: "B",
             characters: "b",
-            date: "dec-11-2025",
-            image: "https://arknights.wiki.gg/images/EN_The_Rolling_Thunder_banner.png?2859d1"
+            date: "jan-16-2026",
+            image: "https://arknights.wiki.gg/images/thumb/CN_Hanabi_Exiled_banner.png/1536px-CN_Hanabi_Exiled_banner.png?89db07"
         }
     ]; // sql table of banner information
 
